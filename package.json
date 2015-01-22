@@ -2,6 +2,14 @@
 	"author" : "Tyler Oliver",
 	"name" : "censorify",
 	"version" : "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TylerOliver18/censorifyHTO.git"
+	},
+	"keywords": [
+	"censor",
+	"words"
+	],
 	"dependencies" : {},
 	"engines" :{
 		"node" : "*"
